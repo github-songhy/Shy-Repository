@@ -1,0 +1,5 @@
+# include<stdio.h>
+int mian(){
+  pintf("Hello World!");
+  return 0;
+}
